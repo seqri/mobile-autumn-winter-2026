@@ -1,7 +1,6 @@
 - ФИО: Андреева Анастасия Тимуровна
 - Группа: ФИИТ-23
 - Контакты: xx.diesaty@gmail.com
-- Зачем мне мобильная разработка: TODO
 
 ## ИИ на курсе
 - Чем пользуюсь: Claude
@@ -12,7 +11,7 @@
 - Сделала Welcome-экран по спеке (`my-app/SPECS/lab-welcome.md`)
 - Подключила Bottom Tabs: Home (Welcome) / Counter / Name / Timer / Posts / About
 - Экраны лежат в `my-app/src/screens/`
-- Чем пользовалась: ИИ (Claude) + сама проверяла и правила код
+- Чем пользовалась: ИИ (Claude) 
 
 ## Пара 3
 - [x] Лаба useState: CounterScreen в Tabs (`SPECS/lab-usestate.md`)
